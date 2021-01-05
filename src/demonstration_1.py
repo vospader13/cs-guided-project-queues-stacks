@@ -38,11 +38,11 @@ class Stack:
 class MaxStack:
     def __init__(self):
         # Your code here
-
+                
 
     def push(self, item):
         """Add a new item onto the top of our stack."""
-        # Your code here
+        
 
 
     def pop(self):
